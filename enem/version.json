@@ -1,0 +1,16 @@
+{
+  "android": {
+    "latestPublishedVersion": "0.0.0",
+    "latestBuildNumber": 0,
+    "forceUpdate": false,
+    "storeUrl": "https://play.google.com/store/apps/details?id=br.com.portaldoenem.app",
+    "message": "Uma nova versão do aplicativo está disponível com melhorias e correções."
+  },
+  "ios": {
+    "latestPublishedVersion": "0.0.0",
+    "latestBuildNumber": 0,
+    "forceUpdate": false,
+    "storeUrl": "https://apps.apple.com/br/app/portal-enem/id6828095733",
+    "message": "Uma nova versão do aplicativo está disponível com melhorias e correções."
+  }
+}
