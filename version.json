@@ -2,7 +2,7 @@
   "android": {
     "latestPublishedVersion": "19.0.0",
     "latestBuildNumber": 84,
-    "forceUpdate": true,
+    "forceUpdate": false,
     "storeUrl": "https://play.google.com/store/apps/details?id=br.com.cursosdoportal.app",
     "message": "Uma nova versão está disponível. Atualize para continuar usando o aplicativo."
   },
