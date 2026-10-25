@@ -1,16 +1,16 @@
 {
   "android": {
-    "latestPublishedVersion": "21.0.3",
-    "latestBuildNumber": 88,
-    "forceUpdate": true,
+    "latestPublishedVersion": "22.0.0",
+    "latestBuildNumber": 90,
+    "forceUpdate": false,
     "storeUrl": "https://play.google.com/store/apps/details?id=br.com.cursosdoportal.app",
-    "message": "Uma nova versão está disponível. Atualize para continuar usando o aplicativo."
+    "message": "Uma nova versão do aplicativo está disponível com melhorias e correções."
   },
   "ios": {
-    "latestPublishedVersion": "21.0.3",
-    "latestBuildNumber": 120,
-    "forceUpdate": true,
+    "latestPublishedVersion": "22.0.0",
+    "latestBuildNumber": 122,
+    "forceUpdate": false,
     "storeUrl": "https://apps.apple.com/br/app/portal-concursos/id6741777581",
-    "message": "Uma nova versão está disponível. Atualize para continuar usando o aplicativo."
+    "message": "Uma nova versão do aplicativo está disponível com melhorias e correções."
   }
 }
